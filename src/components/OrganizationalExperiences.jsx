@@ -9,10 +9,10 @@ const OrganizationalExperiences = () => {
         <img src="/logo-himalkom.svg" alt="Company-1" className="w-14 h-14  " />
         {/* company name and est */}
         <div className="">
-          <div className="flex justify-between gap-3">
+          <div className="sm:flex justify-between gap-3">
             <div className="mb-1 w-fit">
-              <div className="font-bold mb-1.5 text-sm sm:text-lg ">Computer Science Student Association (Himalkom), IPB University</div>
-              <div className="font-semibold text-gray-600 underline text-sm sm:text-base underline-offset-2 cursor-pointer">Research and Technology Department</div>
+              <div className="font-bold mb-1.5 text-base sm:text-lg w-fit ">Computer Science Student Association (Himalkom), IPB University</div>
+              <div className="font-semibold text-gray-600 underline text-base sm:text-base w-fit underline-offset-2 cursor-pointer">Research and Technology Department</div>
             </div>
             <div className="text-gray-600">January 2026 - Present</div>
           </div>
