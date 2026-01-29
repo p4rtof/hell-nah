@@ -5,9 +5,9 @@ const Project = () => {
             <div className="text-3xl font-bold tracking-tighter md:text-5xl mt-3 md:mt-5">Check out my latest work</div>
             <div className="mt-4 text-xl  text-gray-600 text-justify mb-5 leading-8 ">To Be Continued ...... </div>
 
-            <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 ">
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 ">
                 {/* 1 */}
-                <div className="container text-left border border-gray-300 px-2 py-1 rounded-lg w-full md:w-full pl-3">
+                <div className="container text-left border border-gray-300 px-2 py-1 rounded-lg w-full hover:bg-zinc-50 hover:drop-shadow-xl hover:cursor-pointer transition-all md:w-full pl-3 ">
                     <div className="font-bold text-lg mb-1 mt-0.5">Lorem Ipsum</div>
                     <div className="font-sans text-pretty text-sm text-gray-500 leading-5 mb-4 font-medium text-justify mr-2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, perspiciatis? Aliquam, sunt nostrum voluptas deleniti ratione, commodi possimus dolore delectus cumque incidunt rem minus debitis eum sequi! Mollitia, eligendi non?</div>
 
@@ -35,7 +35,7 @@ const Project = () => {
                 </div>
 
                 {/* 2 */}
-                <div className="container text-left border border-gray-300 px-2 py-1 rounded-lg w-full md:w-full pl-3">
+                <div className="container text-left border border-gray-300 px-2 py-1 rounded-lg w-full hover:bg-zinc-50 hover:drop-shadow-xl hover:cursor-pointer transition-all md:w-full pl-3 ">
                     <div className="font-bold text-lg mb-1 mt-0.5">Lorem Ipsum</div>
                     <div className="font-sans text-pretty text-sm text-gray-500 leading-5 mb-4 font-medium text-justify mr-2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, perspiciatis? Aliquam, sunt nostrum voluptas deleniti ratione, commodi possimus dolore delectus cumque incidunt rem minus debitis eum sequi! Mollitia, eligendi non?</div>
 
@@ -63,7 +63,7 @@ const Project = () => {
                 </div>
 
                 {/* 3 */}
-                <div className="container text-left border border-gray-300 px-2 py-1 rounded-lg w-full md:w-full pl-3">
+                <div className="container text-left border border-gray-300 px-2 py-1 rounded-lg w-full hover:bg-zinc-50 hover:drop-shadow-xl hover:cursor-pointer transition-all md:w-full pl-3 ">
                     <div className="font-bold text-lg mb-1 mt-0.5">Lorem Ipsum</div>
                     <div className="font-sans text-pretty text-sm text-gray-500 leading-5 mb-4 font-medium text-justify mr-2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, perspiciatis? Aliquam, sunt nostrum voluptas deleniti ratione, commodi possimus dolore delectus cumque incidunt rem minus debitis eum sequi! Mollitia, eligendi non?</div>
 
@@ -91,7 +91,7 @@ const Project = () => {
                 </div>
 
                 {/* 4 */}
-                <div className="container text-left border border-gray-300 px-2 py-1 rounded-lg w-full md:w-full pl-3">
+                <div className="container text-left border border-gray-300 px-2 py-1 rounded-lg w-full hover:bg-zinc-50 hover:drop-shadow-xl hover:cursor-pointer transition-all md:w-full pl-3 ">
                     <div className="font-bold text-lg mb-1 mt-0.5">Lorem Ipsum</div>
                     <div className="font-sans text-pretty text-sm text-gray-500 leading-5 mb-4 font-medium text-justify mr-2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, perspiciatis? Aliquam, sunt nostrum voluptas deleniti ratione, commodi possimus dolore delectus cumque incidunt rem minus debitis eum sequi! Mollitia, eligendi non?</div>
 
