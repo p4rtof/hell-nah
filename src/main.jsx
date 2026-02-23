@@ -14,11 +14,11 @@ createRoot(document.getElementById('root')).render(
     <div className='cursor-default'>
       <Header />
       <About />
-      <Academic/>
-      <OrganizationalExperiences/>
-      <Skills/>
-      <Project/>
-      <Footer/>
+      <Academic />
+      <OrganizationalExperiences />
+      <Skills />
+      <Project />
+      <Footer />
     </div>
 
   </StrictMode>,
