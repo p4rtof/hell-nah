@@ -17,7 +17,7 @@ const OrganizationalExperiences = () => {
             <div className="text-gray-600">January 2026 - Present</div>
           </div>
           {/* description */}
-          <div className="mt-2 text-justify text-sm sm:text-base bg-yellow-300">Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus voluptatem facilis accusantium officia in rerum soluta odit similique rem corrupti, sequi facere, eius quo omnis alias sint, velit laudantium culpa. </div>
+          <div className="mt-2 text-justify text-sm sm:text-base ">Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus voluptatem facilis accusantium officia in rerum soluta odit similique rem corrupti, sequi facere, eius quo omnis alias sint, velit laudantium culpa. </div>
         </div>
       </div>
 

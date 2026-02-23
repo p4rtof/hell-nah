@@ -15,7 +15,7 @@ const Academic = () => {
                         <div className="text-gray-600">August 2024 - Present</div>
                     </div>
                     {/* description */}
-                    <div className="mt-2 text-justify text-sm sm:text-base md:leading-6 leading-2 bg-yellow-300">Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus voluptatem facilis accusantium officia in rerum soluta odit similique rem corrupti, sequi facere, eius quo omnis alias sint, velit laudantium culpa. </div>
+                    <div className="mt-2 text-justify text-sm sm:text-base md:leading-6 leading-2 ">Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus voluptatem facilis accusantium officia in rerum soluta odit similique rem corrupti, sequi facere, eius quo omnis alias sint, velit laudantium culpa. </div>
                 </div>
             </div>
         </main>
