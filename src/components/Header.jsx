@@ -18,7 +18,7 @@ function Header() {
               <path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"></path>
             </svg>
 
-            <a href="mailto:fadhla153@gmail.com" className="hover:underline underline-offset-2">
+            <a href="" className="hover:underline underline-offset-2">
               aaron@gmail.com
             </a>
           </div>
@@ -28,7 +28,7 @@ function Header() {
         <img
           src="/profile.jpg"
           alt="Profile"
-          className="w-24 h-24 sm:w-32 sm:h-32 rounded-full object-cover shrink-0 border-2 border-gray-100"
+          className="w-32 h-32 sm:w-40 sm:h-40  rounded-full object-cover shrink-0 border-2 border-gray-100"
         />
 
       </div>

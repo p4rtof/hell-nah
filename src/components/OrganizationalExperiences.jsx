@@ -12,7 +12,7 @@ const OrganizationalExperiences = () => {
           <div className="sm:flex justify-between gap-3">
             <div className="mb-1 w-fit">
               <div className="font-bold mb-1.5 text-base sm:text-lg w-fit ">Computer Science Student Association (Himalkom), IPB University</div>
-              <div className="font-semibold text-gray-600 underline text-base sm:text-base w-fit underline-offset-2 cursor-pointer">Research and Technology Department</div>
+              <div className="font-semibold text-gray-600 underline text-base sm:text-base w-fit underline-offset-2 cursor-pointer"><a href="https://himalkom-ipb.com">Research and Technology Department</a></div>
             </div>
             <div className="text-gray-600">January 2026 - Present</div>
           </div>

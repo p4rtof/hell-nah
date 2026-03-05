@@ -16,6 +16,12 @@ const Skills = () => {
             <span className="px-3 py-1 mx-0.5 mb-1.5 bg-black text-white font-semibold text-sm rounded-md cursor-pointer">Deep Learning</span>
             <span className="px-3 py-1 mx-0.5 mb-1.5 bg-black text-white font-semibold text-sm rounded-md cursor-pointer">AI</span>
             <span className="px-3 py-1 mx-0.5 mb-1.5 bg-black text-white font-semibold text-sm rounded-md cursor-pointer">Mechine Learning</span>
+            <span className="px-3 py-1 mx-0.5 mb-1.5 bg-black text-white font-semibold text-sm rounded-md cursor-pointer">Dance</span>
+            <span className="px-3 py-1 mx-0.5 mb-1.5 bg-black text-white font-semibold text-sm rounded-md cursor-pointer">Digital Art</span>
+            <span className="px-3 py-1 mx-0.5 mb-1.5 bg-black text-white font-semibold text-sm rounded-md cursor-pointer">Team Management</span>
+            <span className="px-3 py-1 mx-0.5 mb-1.5 bg-black text-white font-semibold text-sm rounded-md cursor-pointer">Communication</span>
+            <span className="px-3 py-1 mx-0.5 mb-1.5 bg-black text-white font-semibold text-sm rounded-md cursor-pointer">Illustrasion</span>
+            <span className="px-3 py-1 mx-0.5 mb-1.5 bg-black text-white font-semibold text-sm rounded-md cursor-pointer">Game Developer</span>
         </div>
     </main>
   )

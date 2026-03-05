@@ -10,7 +10,7 @@ const Academic = () => {
                     <div className="sm:flex justify-between gap-3">
                         <div className="mb-1">
                             <div className="font-bold text-base mb-1 sm:text-lg">IPB University</div>
-                            <div className="font-semibold text-base sm:text-base text-gray-600 underline underline-offset-2 cursor-pointer">Bachelor of Computer Science</div>
+                            <div className="font-semibold text-base sm:text-base text-gray-600 underline underline-offset-2 cursor-pointer"><a href="https://cs.ipb.ac.id">Bachelor of Computer Science</a></div>
                         </div>
                         <div className="text-gray-600">August 2024 - Present</div>
                     </div>
